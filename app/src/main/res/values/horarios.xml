@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="horarios">
+        <item>19:00</item>
+        <item>20:00</item>
+        <item>21:00</item>
+        <item>21:00</item>
+        <item>21:00</item>
+        <item>21:00</item>
+        <item>21:00</item>
+        <item>21:00</item>
+        <item>21:00</item>
+        <item>21:00</item>
+        <item>21:00</item>
+    </array>
+</resources>
